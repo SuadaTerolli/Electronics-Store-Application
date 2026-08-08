@@ -1,0 +1,5 @@
+id,name,category,supplier,purchaseDate,purchasedPrice,sellingPrice,quantity,sectorId
+1,MacBook Pro,Computers,Apple,2025-01-01,1200.00,1500.00,10,1
+2,Galaxy S23,Mobile Phones,Samsung,2025-01-02,800.00,1000.00,15,1
+3,PlayStation 5,Gaming,Sony,2025-01-03,500.00,600.00,8,5
+4,Xbox Series X,Gaming,Microsoft,2025-01-04,450.00,550.00,12,4

@@ -1,0 +1,9 @@
+id,name,username,datebirth,phone,email,salary,password,accesslevel,sectorName
+1,John Doe,johndoe,2025-01-23,885996,johndoe@gmail.com,51000.0,111,manager,null
+2,Jane Smith,janesmith,2025-01-23,987654,janesmith@example.com,60000.0,222,administrator,null
+3,Emily Johnson,emilyj,2025-01-23,112233,emilyj@example.com,45000.0,333,cashier,Laptop
+4,Connor Brooks,connorbrooks,2025-01-23,428596,connorbrooks@gmail.com,47000.0,444,cashier,TV
+5,Katy Thompson,katythompson,2025-01-23,775596,katyt@gmail.com,54000.0,555,manager,null
+6,Peter Bryant,peterbryant,2025-01-23,148852,peter00@gmail.com,41000.0,666,cashier,Desktop Computer
+7,Paul Evans,paulevans,2025-01-23,559684,paulevans@gmail.com,4100.0,777,Cashier,Smartphone
+8,Teddy Daniels,teddydaniels,2025-01-23,995622,teddydaniels@gmail.com,4100.0,888,Cashier,Laptop

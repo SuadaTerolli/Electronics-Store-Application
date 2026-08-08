@@ -1,0 +1,22 @@
+id,name,category,supplier,purchaseDate,purchasedPrice,sellingPrice,quantity,sectorId
+1,MacBook Pro,Computers,Apple,2025-01-01,1200.00,1500.00,10,0
+2,Galaxy S23,Mobile Phones,Samsung,2025-01-02,800.00,1000.00,15,4
+3,PlayStation 5,Gaming,Sony,2025-01-03,500.00,600.00,8,5
+4,Xbox Series X,Gaming,Microsoft,2025-01-04,450.00,550.00,12,9
+5,Inspiron 15,Computers,Dell,2025-01-05,600.00,750.00,6,1
+6,ThinkPad X1,Computers,Lenovo,2025-01-06,1000.00,1300.00,9,1
+7,Galaxy Tab S8,Electronics,Samsung,2025-01-07,400.00,500.00,10,6
+8,Apple Watch,Mobile Phones,Apple,2025-01-08,300.00,400.00,7,12
+9,Nikon D3500,Electronics,Sony,2025-01-09,350.00,450.00,6,8
+10,HP LaserJet,Computers,HP,2025-01-10,250.00,320.00,11,14
+11,LG Smart TV,Home Appliances,LG,2025-01-11,700.00,900.00,5,2
+12,Bosch Washing Machine,Home Appliances,Bosch,2025-01-12,800.00,950.00,8,7
+13,OnePlus 12,Mobile Phones,OnePlus,2025-01-13,700.00,850.00,10,4
+14,Intel Processor,Computers,Intel,2025-01-14,300.00,400.00,14,8
+15,Asus ROG Laptop,Computers,Asus,2025-01-15,1500.00,1800.00,9,1
+16,VR Oculus,Gaming,Nintendo,2025-01-16,450.00,550.00,7,13
+17,Samsung Microwave,Home Appliances,Samsung,2025-01-17,200.00,300.00,9,11
+18,Canon Printer,Electronics,Sony,2025-01-18,180.00,250.00,6,14
+19,Logitech Mouse,Computers,Microsoft,2025-01-19,20.00,30.00,15,15
+20,Dell Server,Computers,Dell,2025-01-20,2000.00,2500.00,10,8
+21,Samsung S24 Phone,Mobile Phones,Samsung,2024-01-23,750.0,900.0,15,4

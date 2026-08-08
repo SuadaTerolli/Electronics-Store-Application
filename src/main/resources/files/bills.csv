@@ -1,0 +1,24 @@
+billId,billNumber,billDate,totalAmount,sectorId,items, cashierId
+1,INV001,2025-05-14,4000.00,1,"MacBook Pro (Apple) Quantity:2 Galaxy S23 (Samsung) Quantity: 1", 4
+2,INV002,2025-06-21,1700.00,5,"PlayStation 5 (Sony) Quantity:1 Xbox Series X (Microsoft) Quantity: 2", 6
+3,INV003,2025-07-05,2550.00,1,"Inspiron 15 (Dell) Quantity:1 ThinkPad X1 (Lenovo) Quantity: 1 Galaxy Tab S8 (Samsung) Quantity: 1", 3
+4,INV004,2025-08-17,2420.00,4,"OnePlus 12 (OnePlus) Quantity:2 Apple Watch (Apple) Quantity: 1 HP LaserJet (HP) Quantity: 1",4
+5,INV005,2025-09-09,700.00,10,"Nikon D3500 (Sony) Quantity: 1 Canon Printer (Sony) Quantity: 1",6
+6,INV006,2025-10-13,2050.00,3,"LG Smart TV (LG) Quantity: 1 PlayStation 5 (Sony) Quantity: 1 VR Oculus (Nintendo) Quantity: 1",3
+7,INV007,2025-11-25,1120.00,1,"HP LaserJet (HP) Quantity: 1 Apple Watch (Apple) Quantity: 2",4
+8,INV008,2025-12-03,1350.00,4,"Apple Watch (Apple) Quantity: 2 Samsung Microwave (Samsung) Quantity: 1 Canon Printer (Sony) Quantity: 1",6
+9,INV009,2025-12-15,4300.00,2,"Asus ROG Laptop (Asus) Quantity: 1 Dell Server (Dell) Quantity: 1",3
+10,INV010,2025-01-10,1410.00,3,"OnePlus 12 (OnePlus) Quantity: 1 Galaxy Tab S8 (Samsung) Quantity: 1 Logitech Mouse (Microsoft) Quantity: 2",4
+11,INV011,2025-02-02,3770.00,5,"Inspiron 15 (Dell) Quantity: 1 PlayStation 5 (Sony) Quantity: 1 Asus ROG Laptop (Asus) Quantity: 1 HP LaserJet (HP) Quantity: 1 Samsung Microwave (Samsung) Quantity: 1",6
+12,INV012,2025-03-18,1400.00,2,"Washing Machine (Bosch) Quantity: 1 Camera (Sony) Quantity: 1",3
+13,INV013,2025-04-22,1950.00,3,"Printer (Sony) Quantity: 1 OnePlus 12 (OnePlus) Quantity: 2",4
+14,INV014,2025-05-09,1950.00,4,"PlayStation 5 (Sony) Quantity: 1 Xbox Series X (Microsoft) Quantity: 1 Apple Watch (Apple) Quantity: 2",6
+15,INV015,2025-06-14,3050.00,5,"PlayStation 5 (Sony) Quantity: 2 Xbox Series X (Microsoft) Quantity: 1 Nikon D3500 (Sony) Quantity: 1 OnePlus 12 (OnePlus) Quantity: 1",3
+16,INV016,2025-07-08,400.00,12,"Smartwatch (Apple) Quantity: 1",4
+17,INV017,2025-08-19,1150.00,2,"Canon Printer (Sony) Quantity: 1 LG Smart TV (LG) Quantity: 1",6
+18,INV018,2025-09-10,2500.00,1,"Desktop Computer (HP) Quantity: 1",3
+19,INV019,2025-10-25,1350.00,3,"VR Headset (Nintendo) Quantity: 2 Canon Printer (Sony) Quantity: 1",4
+20,INV020,2025-11-11,3150.00,5,"PlayStation 5 (Sony) Quantity: 2 Xbox Series X (Microsoft) Quantity: 1 Camera (Sony) Quantity: 1 Washing Machine (Bosch) Quantity: 1",6
+21,INV021,2025-01-23,30.00,1,"Logitech Mouse (null) Quantity: 1",4
+22,INV022,2025-01-23,4500.00,1,"MacBook Pro (null) Quantity: 3",4
+23,INV023,2025-01-23,2400.00,1,"Nikon D3500 (null) Quantity: 2 MacBook Pro (null) Quantity: 1",4
